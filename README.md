@@ -9,4 +9,5 @@
 - ⚡ Fun fact: I grew up being bullied for my Tourette's Syndrome, which pushed be to learn **18 PROGRAMMING LANGUAGES!!** As of today, I know around 12-13 of them fluently.
 
 > Enrolled in Github Education/Students Program
+
 > Attends FLVS Flex Education Program
