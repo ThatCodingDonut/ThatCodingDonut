@@ -133,12 +133,19 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Langs :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=imjustadonut&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <h3>TypeScript</h3>
+  <h3>JavaScript</h3>
+  <h3>Python</h3>
+  <h3>C#</h3>
+  <h3>Ruby</h3>
+  <h3>Java</h3>
+  <h3>Rust (LEARNING)</h3>
+  few more but I got lazy so I'll add them later...
 </div>
 
 ###
