@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left">I'm Corbin!<br><br>- 🔭 I’m studying as an ML Software Developer/Engineer<br>- 📚 I'm currently learning <br>:| PS I am up for commision!</h4>
+<h4 align="left">I'm Corbin!<br><br>- 🔭 I’m studying as an ML Software Developer/Engineer<br>- 📚 I'm currently creating my own programming language :) <br>:| PS I am up for commision!</h4>
 
 ###
 
